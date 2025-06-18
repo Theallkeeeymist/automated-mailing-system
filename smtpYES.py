@@ -9,7 +9,7 @@ data=pd.read_csv("have_credit_card.csv")
 data.columns=['customer_id', 'customer_name', 'email_id', 'credit_card', 'flag']
 
 #sender details
-app_password = "dfsp rxbx gzmv nsvf"
+app_password = "app-password"
 sender_email = "allkeeeymist@gmail.com"
 subject = "New Credit Card offers, come to bank."
 
